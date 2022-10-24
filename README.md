@@ -1,6 +1,7 @@
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a> |
-  <a href="#-Projeto">Projeto</a>
+  <a href="#-Projeto">Projeto</a> |
+  <a href="#-Licença">Licença</a>
 </p
 
 ![portfolio](https://user-images.githubusercontent.com/99052605/197594600-1b30dd97-f317-4a3e-a703-0b532301c4cd.jpeg)
