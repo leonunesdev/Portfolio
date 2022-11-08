@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 + Phosphor react
 
 ## 💻 Projeto
-
+Projeto desenvolvido para pôr alguns dos meus principais projetos desenvolvidos para mostrar minha experiencia como desenvolvedor web
 
 ## 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Portfolio/blob/main/LICENSE">LICENSE</a> para mais detalhes.
